@@ -1,2 +1,6 @@
 # onurozkanapp.github.io
-This repo hosts my personal portfolio redirect page.   Visit: https://onurozkanapp.github.io → redirects to my Google Sites portfolio.
+
+This repository hosts the **redirect page** for my personal portfolio.  
+Visiting **[onurozkanapp.github.io](https://onurozkanapp.github.io)** will automatically redirect to my static GitHub Pages portfolio.  
+
+**Portfolio Link:** [https://onurozkanapp.github.io/OnurOzkan-Portfolio/](https://onurozkanapp.github.io/OnurOzkan-Portfolio/)
